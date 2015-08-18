@@ -1,3 +1,4 @@
+Learned how to use pandas to munipulate and then graph the data to allow for analyzation.
 # Analyze Consumer Complaint Data
 
 ## Description
